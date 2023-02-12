@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "776371277606",
+    "project_id": "working-app-01",
+    "storage_bucket": "working-app-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776371277606:android:1436d795efafde75b33be7",
+        "android_client_info": {
+          "package_name": "com.thephantomdev.working"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776371277606-o9t9fr5fklslvgmso0p7dp306h4s2mk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv1mSfL5VviT0vPoQK1lXnJ7DncH3mBOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776371277606-o9t9fr5fklslvgmso0p7dp306h4s2mk6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776371277606-ssurgfluu9knt9v3q74eqo77bkn1c2iv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thephantomdev.working"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
